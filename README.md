@@ -1,0 +1,1 @@
+This project is a final assignment I worked on with some classmates. It allows users to enter books along with their details, filter results by search criteria, and see what other books are available.
